@@ -10,14 +10,3 @@ Para rodar o projeto voce pode instalar o xampp que ja vem com php e mysql, adic
 Em seguida deve entrar no banco para fazer a migracao dos dados, para isso basta copiar e colar os comandos sql do arquivo __sql_migracao.sql/migracao.sql__ no banco.
 
 Depois e necessario subir o servidor e entrar na seguinte url **http://localhost/TRABALHO_CRUD/**
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
-# trabalho-crud
